@@ -16,3 +16,9 @@ Spatio-temporal model for the spread of the Eurasian collared dove in North Amer
 ## New Developments
 
 Updates to early models, and new modeling efforts.
+
+## Initial Collaborators
+
+Michael M. Fuller
+<br/>Erika Asano
+<br/>Andrew J. Whittle
