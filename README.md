@@ -20,3 +20,6 @@ of the Ecological Society of America.
 Michael M. Fuller  
 Erika Asano  
 Andrew J. Whittle
+
+Copyright 2006. Fuller, Asano, Whittle.
+We certify that our code is original and produced by us (not copied from another repository).
